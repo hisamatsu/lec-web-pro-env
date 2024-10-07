@@ -3,7 +3,7 @@
 {
   "name": "Ruby",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-  "image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/ruby:1-3.3-bullseye",
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
@@ -19,12 +19,13 @@
     "vscode": {
       "extensions": [
         "MS-CEINTL.vscode-language-pack-ja",
-        "esbenp.prettier-vscode",
         "rebornix.ruby",
         "castwide.solargraph",
         "kaiwood.endwise",
         "oderwat.indent-rainbow",
         "christian-kohler.path-intellisense",
+        "shardulm94.trailing-spaces",
+        "mosapride.zenkaku",
         "formulahendry.code-runner"
       ]
     }
