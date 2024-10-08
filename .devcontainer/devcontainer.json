@@ -19,7 +19,6 @@
     "vscode": {
       "extensions": [
         "MS-CEINTL.vscode-language-pack-ja",
-        "rebornix.ruby",
         "castwide.solargraph",
         "kaiwood.endwise",
         "oderwat.indent-rainbow",
